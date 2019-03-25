@@ -5,7 +5,6 @@
 ###  Youth
 
 ```markdown
-
 And there are people who forget what it's like to be 16 when they turn 17.
 I know these will all be stories someday. And our pictures will become old photographs. And well all become somebody's moms and dad.
 But right now,these moments are not stories.this is happening」am here.
