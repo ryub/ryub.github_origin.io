@@ -1,4 +1,4 @@
-#### Welcome to GitHub of Ryub
+# Welcome to GitHub of Ryub
 
 你可以在这个页面获知Ryub的最新想法，创作，感受到他对自由生命的热枕以及对自由艺术的使命。
 
@@ -6,10 +6,13 @@
 
 ```markdown
 And there are people who forget what it's like to be 16 when they turn 17.
-I know these will all be stories someday. And our pictures will become old photographs. And well all become somebody's moms and dad.
+I know these will all be stories someday. And our pictures will become old photographs. 
+And well all become somebody's moms and dad.
+
 But right now,these moments are not stories.this is happening」am here.
 And I looking at her. And she is so beautiful. I can see it.
-This one moment when you know you're not a sad story. You are alive.and you stand up and see the lights on buildings,and everything that makes you wonder.
+This one moment when you know you're not a sad story. You are alive.and you stand up and see the lights on buildings,
+and everything that makes you wonder.
 And you are listening to that song on that drive with the people you love most in this world.
 And in this moment,I swear,we are infinite.
 
