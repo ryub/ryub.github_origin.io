@@ -56,10 +56,14 @@ For nothing now can ever come to any good.
 ```
 
 
-### Some Point 
 
-Thank you to my friends.
 
 ### Support or Contact
 
 Having trouble with Pages? Send Email to me(liewbohr@gmail.com), and I’ll help you sort it out.
+
+### Some Point 
+
+                                                                                            ----------At 2019/3/25 night. Ryub
+
+
