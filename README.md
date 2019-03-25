@@ -1,7 +1,7 @@
 # Bienvenidos,amigos.
 
 你可以在这个页面获知Ryub的最新想法，创作，感受到他对自由生命的热枕以及对自由艺术的使命。
-<p><img src ="https://www.yanedu.com/upload/images/2017/9/616056392.jpg"> </p>
+<p><img src ="https://pic4.zhimg.com/80/v2-b3df32fe9dda0172cc5a3a13ac67d505_hd.jpg"> </p>
 
 ###  Youth
 
@@ -64,6 +64,6 @@ Having trouble with Pages? Send Email to me(liewbohr@gmail.com), and I’ll help
 
 ### Some Point 
 
-                                                                                            ----------At 2019/3/25 night. Ryub
+                                                            ----------At 2019/3/25 night. Ryub
 
 
