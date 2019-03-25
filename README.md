@@ -11,7 +11,8 @@ And well all become somebody's moms and dad.
 
 But right now,these moments are not stories.this is happening」am here.
 And I looking at her. And she is so beautiful. I can see it.
-This one moment when you know you're not a sad story. You are alive.and you stand up and see the lights on buildings,
+This one moment when you know you're not a sad story. 
+You are alive.and you stand up and see the lights on buildings,
 and everything that makes you wonder.
 And you are listening to that song on that drive with the people you love most in this world.
 And in this moment,I swear,we are infinite.
