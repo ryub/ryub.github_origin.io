@@ -4,7 +4,7 @@
 <p><img src ="https://pic4.zhimg.com/80/v2-b3df32fe9dda0172cc5a3a13ac67d505_hd.jpg"> </p>
 
 ## 为2020年夏天申请北大人文地理学博士研究生，
-## 而努力发文章学习英文中。
+## 而努力发文章学习英文中……
 
 ###  Youth
 
