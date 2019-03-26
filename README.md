@@ -60,7 +60,7 @@ For nothing now can ever come to any good.
 
 ### Support or Contact
 
-Having trouble with Pages? Send Email to me(liewbohr@gmail.com), and I’ll help you sort it out.
+Having trouble with Pages? Send Email to me```markdown(liewbohr@gmail.com),``` and I’ll help you sort it out.
 
 ### Some Point 
 
