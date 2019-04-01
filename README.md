@@ -1,5 +1,5 @@
 # Bienvenidos,amigos.
-
+<a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu"></a>
 你可以在这个页面获知Ryub的最新想法，创作，感受到他对自由生命的热枕以及对自由艺术的使命。
 <p><img src ="https://b-ssl.duitang.com/uploads/item/201706/10/20170610200050_UM43X.jpeg"> </p>
 
