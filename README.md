@@ -1,10 +1,9 @@
 # Bienvenidos,amigos.
 <p><a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu"></a></p>
-你可以在这个页面获知Ryub的最新想法，创作，感受到他对自由生命的热枕以及对自由艺术的使命。
-
 <p><a href="http://www.ryubohr.com"><img src="https://img.shields.io/badge/Ryub-Blog-green.svg" alt="996.icu"></a><p>
-
-## 为2020年夏天申请北大人文地理学博士研究生，
+<p>上面两个标徽都可以点击。<p>
+你可以在这个页面获知Ryub的最新想法，创作，感受到他对自由生命的热枕以及对自由艺术的使命。
+## 为2020年夏天申请北大人文地理学博士研究生（就是瞎说说）
 ## 而努力发文章学习英文中……
 ### 2020年 10月 15日 12:00-12月 7日 12:00。
 
